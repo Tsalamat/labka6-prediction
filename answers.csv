@@ -1,0 +1,2 @@
+tfidf_columns,train_r2,test_r2,director_salary,manager_salary,data_scientist_salary,strongest_positive_feature,strongest_positive_weight
+4175,0.7748676243434285,0.6194680529163464,94.57997552938568,84.63603810090122,115.87933175003545,actuarial,37.25234978079577
